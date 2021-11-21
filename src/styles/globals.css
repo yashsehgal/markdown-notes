@@ -1,0 +1,7 @@
+@import url('https://cdn.jsdelivr.net/gh/DesignSystemsOSS/eccentrictouch@master/source/eccentrictouch.css');
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1400px;
+}
